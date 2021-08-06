@@ -2,7 +2,7 @@
 This is basic kanban board application which is inspired Github project section.
 
 # Tech Stack
-- SpringBoot
+- Spring Boot
 - Spring Security
 - JWT
 - Spring Data / JPA
