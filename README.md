@@ -1,7 +1,7 @@
 # My Kanban Board App
 This is basic kanban board application which is inspired Github project section.   
   
-![Project structure](https://github.com/betul-sahin/my-kanban-board-app/blob/main/screenshots/kanban_demo.jpg)  
+![Project structure](https://github.com/betul-sahin/my-kanban-board-app/blob/main/screenshots/kanban_demo_app.jpg)  
 
 
 # Tech Stack
